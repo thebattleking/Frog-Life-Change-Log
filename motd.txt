@@ -1,5 +1,5 @@
-Hello all the new frogs!
-This game is Frog Life, you can collect cosmetics,
-hang out with friends and discover new
-places!
-aye
+TO DO LIST:
+make player models
+maybe add hitsounds
+add more maps like mines store/city volcanoe map? ice map? hills map? 
+add moderator vents maybe?
